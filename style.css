@@ -1,0 +1,15 @@
+dl > dt {
+    font-weight: 600;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    height: 250px;
+}
+
+ul > li {
+    line-height: 2em;
+}
